@@ -1,0 +1,38 @@
+<!--
+meta:
+  title: Inventory / Reservations / Backend
+  owner: Commerce Engineering
+  status: active
+  last_reviewed: 2026-04-17
+  tags: [inventory, reservations, backend]
+-->
+> Hub: [[10-modules/inventory/features/reservations/overview]]
+
+# Reservations - Backend
+
+## Purpose
+This file captures **backend** implementation details for the .NET **Clean Architecture** solution.
+
+## Backend implementation notes
+- reservation orchestration belongs in order placement and fulfillment services
+
+## Expected code areas
+- **Domain** model or domain service where core rule belongs
+- **Application** service/use case orchestration
+- **Infrastructure** persistence and external **integration**
+- **Repository**, **validation**, and transaction boundaries aligned to the feature
+
+## Related feature files
+- [[10-modules/inventory/features/reservations/overview]]
+- [[application]]
+- [[data-model]]
+- [[validations]]
+- [[edge-cases]]
+
+## Related features
+- [[10-modules/orders-ecommerce/features/orders/overview|Orders]]
+- [[10-modules/fulfillment-logistics/features/fulfillment-assignment/overview|Fulfillment Assignment]]
+- [[10-modules/inventory/features/stock-ledger/overview|Stock Ledger]]
+
+## Recommended reading order
+Read after [[application]], [[data-model]], and [[validations]].

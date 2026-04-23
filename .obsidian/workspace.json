@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "f58f07690905d649",
+    "type": "split",
+    "children": [
+      {
+        "id": "66655d8722b04145",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b89c1c7daddd252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16-templates/user-flow-template.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "user-flow-template"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e777c835ab21bc2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab089769952ff0d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d7359d0e193bc2a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "70f8f4d13b570ba9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0350f2476345571",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.5
+  },
+  "right": {
+    "id": "093a7464b8b36b5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a78f1ff1887d18d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "401e33c6e70e02d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "07-backend/mapping-rules.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mapping-rules"
+            }
+          },
+          {
+            "id": "b1fff3c30de9b957",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "07-backend/mapping-rules.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from mapping-rules"
+            }
+          },
+          {
+            "id": "9d6332ceea9e836a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "02034fe9c60d901c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a06bc2315ac6701e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "07-backend/mapping-rules.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of mapping-rules"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1b89c1c7daddd252",
+  "lastOpenFiles": [
+    "16-templates/workflows.md",
+    "16-templates/user-flow-template.md",
+    "17-intergations",
+    "08-modules/catalog/features/categories/workflows.md",
+    "08-modules/catalog/features/categories/frontend.md",
+    "08-modules/catalog/features/categories/edge-cases.md",
+    "08-modules/catalog/features/categories/api.md",
+    "05-api/api-overview.md",
+    "03-decisions/ADR-002-tenant-bound-staff-users.md",
+    "16-templates/permissions.md",
+    "01-product/project-scope.md",
+    "16-templates/overview.md",
+    "16-templates/business-rules.md",
+    "07-backend/validation-rules.md",
+    "07-backend/repository-rules.md",
+    "07-backend/application-layer-rules.md",
+    "05-api/auth-and-authorization.md",
+    "02-architecture/system-overview.md",
+    "02-architecture/role-permission-capability-model.md",
+    "02-architecture/multi-tenancy-model.md",
+    "01-product/business-objectives.md",
+    "16-templates/validations.md",
+    "16-templates/README.md",
+    "16-templates/frontend.md",
+    "16-templates/edge-cases.md",
+    "16-templates/data-model.md",
+    "01-product",
+    "00-start-here",
+    "19-project-history",
+    "17-execution-rules",
+    "08-modules/tenant-management/features/tenants",
+    "08-modules/tenant-management/features/outlets",
+    "08-modules/tax/features/tax-rates",
+    "08-modules/tax/features/tax-classes",
+    "08-modules/settings-configuration/features/ui-themes"
+  ]
+}

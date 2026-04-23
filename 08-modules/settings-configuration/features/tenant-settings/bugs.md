@@ -1,0 +1,32 @@
+<!--
+meta:
+  title: Settings & Configuration / Tenant Settings / Bugs
+  owner: Commerce Engineering
+  status: active
+  last_reviewed: 2026-04-17
+  tags: [settings-configuration, tenant-settings, bugs]
+-->
+> Hub: [[10-modules/settings-configuration/features/tenant-settings/overview]]
+
+# Tenant Settings - Bugs
+
+## Purpose
+This file tracks known issues, recurring defects, and defect patterns for **Tenant Settings**.
+
+## Current watch list
+- watch for stale settings cache after update
+
+## Usage rule
+- Record confirmed recurring defects here.
+- Link bug fixes to [[changelog]] after release.
+- Use this file during regression testing and production issue analysis.
+
+## Related feature files
+- [[10-modules/settings-configuration/features/tenant-settings/overview]]
+- [[edge-cases]]
+- [[backend]]
+- [[frontend]]
+- [[changelog]]
+
+## Recommended reading order
+Read when fixing defects or verifying regression risk after changes.

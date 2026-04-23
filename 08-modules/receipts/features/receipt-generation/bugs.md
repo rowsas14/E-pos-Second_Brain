@@ -1,0 +1,32 @@
+<!--
+meta:
+  title: Receipts / Receipt Generation / Bugs
+  owner: Commerce Engineering
+  status: active
+  last_reviewed: 2026-04-17
+  tags: [receipts, receipt-generation, bugs]
+-->
+> Hub: [[10-modules/receipts/features/receipt-generation/overview]]
+
+# Receipt Generation - Bugs
+
+## Purpose
+This file tracks known issues, recurring defects, and defect patterns for **Receipt Generation**.
+
+## Current watch list
+- watch for inconsistent totals between document and stored payload due to post-save formatting logic
+
+## Usage rule
+- Record confirmed recurring defects here.
+- Link bug fixes to [[changelog]] after release.
+- Use this file during regression testing and production issue analysis.
+
+## Related feature files
+- [[10-modules/receipts/features/receipt-generation/overview]]
+- [[edge-cases]]
+- [[backend]]
+- [[frontend]]
+- [[changelog]]
+
+## Recommended reading order
+Read when fixing defects or verifying regression risk after changes.
